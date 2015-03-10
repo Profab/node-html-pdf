@@ -16,9 +16,6 @@
     "tape": "^3.4.0",
     "tap-spec": "^2.2.0"
   },
-  "optionalDependencies": {
-    "phantomjs": "^1.9.16"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Profab/node-html-pdf.git"
